@@ -16,4 +16,4 @@ no Windows 11.
 - PowerShell 7.5.4
 
 ## Status
-🔄 Em andamento
+✅ Concluído
