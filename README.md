@@ -1,5 +1,7 @@
 # Ambiente Local - Laragon + WampServer
 [![Status](https://img.shields.io/badge/status-concluído-brightgreen)]()
+[![Windows](https://img.shields.io/badge/Windows-11-blue)]()
+[![PowerShell](https://img.shields.io/badge/PowerShell-7.5.4-blue)]()
 
 ## 📌 Índice
 - [Sobre o problema](#sobre-o-problema)
