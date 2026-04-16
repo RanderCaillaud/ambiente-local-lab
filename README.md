@@ -22,7 +22,14 @@ Conflito de porta 80 entre Laragon e WampServer no Windows 11.
 | PowerShell | 7.5.4  |
 
 ## Diagnóstico
+
 Comando usado:
+
+```powershell
+netstat -ab | findstr :80
+```
+
+*O comando exige privilégios de administrador.*
 
 ## Solução
 Alterada a porta do Apache no WampServer para 8080.  
