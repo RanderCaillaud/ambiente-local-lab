@@ -1,4 +1,5 @@
 # Ambiente Local - Laragon + WampServer
+[![Status](https://img.shields.io/badge/status-concluído-brightgreen)]()
 
 ## 📌 Índice
 - [Sobre o problema](#sobre-o-problema)
