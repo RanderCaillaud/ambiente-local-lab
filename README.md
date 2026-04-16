@@ -31,6 +31,10 @@ netstat -ab | findstr :80
 
 *O comando exige privilégios de administrador.*
 
+- [x] Testado com `netstat -ab`
+- [ ] Testar `Get-NetTCPConnection`
+- [ ] Testar `curl`
+
 ## Solução
 
 Alterada a porta...
