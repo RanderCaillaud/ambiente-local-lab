@@ -13,10 +13,13 @@
 Conflito de porta 80 entre Laragon e WampServer no Windows 11.
 
 ## Ambiente
-- Windows 11
-- Laragon 8.6.1
-- WampServer 3.4.0
-- PowerShell 7.5.4
+
+| Componente | Versão |
+|------------|--------|
+| Windows 11 | 22H2   |
+| Laragon    | 8.6.1  |
+| WampServer | 3.4.0  |
+| PowerShell | 7.5.4  |
 
 ## Diagnóstico
 Comando usado:
