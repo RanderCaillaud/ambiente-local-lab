@@ -12,7 +12,6 @@ Conflito de porta 80 entre Laragon e WampServer no Windows 11.
 ## Diagnóstico
 Comando usado:
 
-
 ## Solução
 Alterada a porta do Apache no WampServer para 8080.  
 Detalhes no PDF abaixo.
