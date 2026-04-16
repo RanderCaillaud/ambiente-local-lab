@@ -42,6 +42,31 @@ Alterada a porta...
 
 ---
 
+## Testes menos agressivos
+
+*Em desenvolvimento – serão incluídos na v2.0*
+
+- [ ] Parar serviço com `Stop-Service -Name wampapache64 -Confirm`
+- [ ] Executar rollback da configuração (voltar para porta 80)
+- [ ] Testar `Get-NetTCPConnection -LocalPort 80`
+- [ ] Testar `curl http://localhost`
+
+## Segurança aplicada
+
+*Em desenvolvimento – serão incluídos na v2.0*
+
+- Backup do `httpd.conf` antes de qualquer alteração
+- Uso de `Stop-Service` em vez de `taskkill /f`
+- Verificação pós-alteração com `curl` ou `Invoke-WebRequest`
+
+## Comandos úteis para troubleshooting
+
+| Comando | Finalidade |
+|---------|------------|
+| `netstat -ab \| findstr :80` | Identificar processo na porta 80 |
+| `Get-NetTCPConnection -LocalPort 80` | (v2.0) Filtro TCP com PowerShell |
+| `curl http://localhost` | (v2.0) Testar resposta do servidor |
+
 ## Documentação completa
 [Clique aqui para o PDF](./Documentação%20técnica%20de%20Network%20Troubleshooting.pdf)
 
