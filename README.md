@@ -1,5 +1,14 @@
 # Ambiente Local - Laragon + WampServer
 
+## 📌 Índice
+- [Sobre o problema](#sobre-o-problema)
+- [Ambiente](#ambiente)
+- [Diagnóstico](#diagnóstico)
+- [Solução](#solução)
+- [Documentação completa](#documentação-completa)
+- [Autor](#autor)
+- [Licença](#licença)
+
 ## Sobre o problema
 Conflito de porta 80 entre Laragon e WampServer no Windows 11.
 
