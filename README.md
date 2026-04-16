@@ -83,5 +83,5 @@ Assistente Administrativo | Suporte Técnico Júnior
 
 ---
 💡 **Sugestões e feedbacks são bem-vindos!**  
-Se você encontrou um bug ou tem uma ideia para a v2.0, sinta-se à vontade para abrir uma [Issue]([https://github.com](https://github.com/RanderCaillaud)).
+Se você encontrou um bug ou tem uma ideia para a v2.0, sinta-se à vontade para abrir uma [Issue]([https://github.com/RanderCaillaud)].
 
