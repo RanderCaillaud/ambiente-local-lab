@@ -79,7 +79,6 @@ Assistente Administrativo | Suporte Técnico Júnior
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RanderCaillaud)
 
 ## Licença
-MIT
 [License MIT](https://github.com/RanderCaillaud/ambiente-local-lab/blob/main/LICENSE)
 
 ---
