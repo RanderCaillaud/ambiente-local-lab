@@ -33,8 +33,8 @@ Isso gera conflitos, impedindo que um dos serviços (ou ambos) inicie corretamen
 | Componente | Versão |
 |------------|--------|
 | Sistema operacional | Windows 11 (atualizado) |
-| Laragon | [coloque a versão que você usou] |
-| WampServer | [coloque a versão] |
+| Laragon | [8.6.1] |
+| WampServer | [3.4.0] |
 | PowerShell | 7.5.4 |
 | Terminal | Windows Terminal (ou PowerShell ISE) |
 
