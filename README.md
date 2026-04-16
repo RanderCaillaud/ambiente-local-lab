@@ -73,7 +73,9 @@ Alterada a porta...
 [Clique aqui para o PDF](./Documentação%20técnica%20de%20Network%20Troubleshooting.pdf)
 
 ## Autor
-Rander Caillaud
+Rander Caillaud Pereira Guimarães
+Assistente Administrativo | Suporte Técnico Júnior
+LinkedIn • GitHub
 
 ## Licença
 MIT
