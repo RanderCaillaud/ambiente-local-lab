@@ -47,3 +47,13 @@ Isso gera conflitos, impedindo que um dos serviços (ou ambos) inicie corretamen
 ```powershell
 # Comando 1 – mostra o PID e o nome do processo (exige admin)
 netstat -ab | findstr :80
+
+## Autor
+Rander Caillaud Pereira Guimarães
+Auxiliar Administrativo | Suporte Técnico Júnior
+🔗 LinkedIn • GitHub
+
+## Licença
+Este conteúdo está sob a licença MIT. Você pode usar, copiar, modificar e distribuir, desde que mantenha os créditos ao autor.
+
+📄 LICENSE (adicione um arquivo LICENSE na raiz do repositório)
