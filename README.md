@@ -32,8 +32,10 @@ netstat -ab | findstr :80
 *O comando exige privilégios de administrador.*
 
 ## Solução
-Alterada a porta do Apache no WampServer para 8080.  
-Detalhes no PDF abaixo.
+
+Alterada a porta...
+
+---
 
 ## Documentação completa
 [Clique aqui para o PDF](./Documentação%20técnica%20de%20Network%20Troubleshooting.pdf)
