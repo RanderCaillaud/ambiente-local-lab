@@ -75,7 +75,7 @@ Alterada a porta...
 ## Autor
 Rander Caillaud Pereira Guimarães
 Assistente Administrativo | Suporte Técnico Júnior
-LinkedIn • GitHub
+LinkedIn https://www.linkedin.com/in/randercaillaud/ | GitHub https://github.com/RanderCaillaud/perfil-profissional
 
 ## Licença
 MIT
