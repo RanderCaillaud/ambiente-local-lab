@@ -80,3 +80,9 @@ Assistente Administrativo | Suporte Técnico Júnior
 
 ## Licença
 MIT
+[License MIT](https://github.com/RanderCaillaud/ambiente-local-lab/blob/main/LICENSE)
+
+---
+💡 **Sugestões e feedbacks são bem-vindos!**  
+Se você encontrou um bug ou tem uma ideia para a v2.0, sinta-se à vontade para abrir uma [Issue](https://github.com).
+
