@@ -69,7 +69,7 @@ Alterada a porta...
 | `Get-NetTCPConnection -LocalPort 80` | (v2.0) Filtro TCP com PowerShell |
 | `curl http://localhost` | (v2.0) Testar resposta do servidor |
 
-## Documentação completa
+## Documentacao completa
 [Clique aqui para o PDF](./Documentação%20técnica%20de%20Network%20Troubleshooting.pdf)
 
 ## Autor
