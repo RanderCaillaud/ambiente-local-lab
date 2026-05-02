@@ -40,11 +40,13 @@ netstat -ab | findstr :80
 
 ## Solução
 
-Alterada a porta...
+Alterada a porta do Apache para 8081 e MySQL para 3308 no Laragon para evitar conflito como o WampServer
 
 ---
 
 ## Testes menos agressivos
+
+*Boas práticas aplicadas*
 
 - [x] Parar serviço com `Stop-Service -Name wampapache64 -Confirm`
 - [x] Executar rollback da configuração (voltar para porta 80)
