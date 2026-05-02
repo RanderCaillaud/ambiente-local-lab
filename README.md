@@ -70,8 +70,8 @@ Alterada a porta...
 | `curl http://localhost` | (v2.0) Testar resposta do servidor |
 
 ## Documentacao completa
-[Clique aqui para o PDF V1](./Documentação%20técnica%20de%20Network%20Troubleshooting.pdf)
-[Clique aqui para o PDF V]()
+[Clique aqui para o PDF V1](./Documentação%20técnica%20de%20Network%20Troubleshooting.pdf) |
+[Clique aqui para o PDF V2]
 
 ## Autor
 Rander Caillaud Pereira Guimarães
