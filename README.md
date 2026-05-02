@@ -67,7 +67,7 @@ Alterada a porta...
 
 ## Documentacao completa
 [Clique aqui para o PDF V1](./Documentação%20técnica%20de%20Network%20Troubleshooting.pdf) |
-[Clique aqui para o PDF V2]
+[Clique aqui para o PDF V2](https://github.com/RanderCaillaud/ambiente-local-lab/blob/main/network_troubleshooting_v2_final.pdf)
 
 ## Autor
 Rander Caillaud Pereira Guimarães
