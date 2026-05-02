@@ -35,8 +35,8 @@ netstat -ab | findstr :80
 *O comando exige privilégios de administrador.*
 
 - [x] Testado com `netstat -ab`
-- [ ] Testar `Get-NetTCPConnection`
-- [ ] Testar `curl`
+- [x] Testar `Get-NetTCPConnection`
+- [x] Testar `curl`
 
 ## Solução
 
@@ -48,10 +48,10 @@ Alterada a porta...
 
 *Em desenvolvimento – serão incluídos na v2.0*
 
-- [ ] Parar serviço com `Stop-Service -Name wampapache64 -Confirm`
-- [ ] Executar rollback da configuração (voltar para porta 80)
-- [ ] Testar `Get-NetTCPConnection -LocalPort 80`
-- [ ] Testar `curl http://localhost`
+- [x] Parar serviço com `Stop-Service -Name wampapache64 -Confirm`
+- [x] Executar rollback da configuração (voltar para porta 80)
+- [x] Testar `Get-NetTCPConnection -LocalPort 80`
+- [x] Testar `curl http://localhost`
 
 ## Segurança aplicada
 
@@ -70,7 +70,8 @@ Alterada a porta...
 | `curl http://localhost` | (v2.0) Testar resposta do servidor |
 
 ## Documentacao completa
-[Clique aqui para o PDF](./Documentação%20técnica%20de%20Network%20Troubleshooting.pdf)
+[Clique aqui para o PDF V1](./Documentação%20técnica%20de%20Network%20Troubleshooting.pdf)
+[Clique aqui para o PDF V]()
 
 ## Autor
 Rander Caillaud Pereira Guimarães
