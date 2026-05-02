@@ -46,16 +46,12 @@ Alterada a porta...
 
 ## Testes menos agressivos
 
-*Em desenvolvimento – serão incluídos na v2.0*
-
 - [x] Parar serviço com `Stop-Service -Name wampapache64 -Confirm`
 - [x] Executar rollback da configuração (voltar para porta 80)
 - [x] Testar `Get-NetTCPConnection -LocalPort 80`
 - [x] Testar `curl http://localhost`
 
 ## Segurança aplicada
-
-*Em desenvolvimento – serão incluídos na v2.0*
 
 - Backup do `httpd.conf` antes de qualquer alteração
 - Uso de `Stop-Service` em vez de `taskkill /f`
