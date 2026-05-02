@@ -34,13 +34,13 @@ netstat -ab | findstr :80
 
 *O comando exige privilégios de administrador.*
 
-- [x] Testado com `netstat -ab`
-- [x] Testar `Get-NetTCPConnection`
-- [x] Testar `curl`
+- [x] Testado `netstat -ab`
+- [x] Testado `Get-NetTCPConnection`
+- [x] Testado `curl`
 
 ## Solução
 
-Alterada a porta do Apache para 8081 e MySQL para 3308 no Laragon para evitar conflito como o WampServer
+Alterada a porta do Apache para 8081 e MySQL para 3308 no Laragon para evitar conflito como o WampServer. Após a alteração, os dois servidores passaram a coexistir sem conflito no ambiente local. 
 
 ---
 
@@ -64,8 +64,8 @@ Alterada a porta do Apache para 8081 e MySQL para 3308 no Laragon para evitar co
 | Comando | Finalidade |
 |---------|------------|
 | `netstat -ab \| findstr :80` | Identificar processo na porta 80 |
-| `Get-NetTCPConnection -LocalPort 80` | (v2.0) Filtro TCP com PowerShell |
-| `curl http://localhost` | (v2.0) Testar resposta do servidor |
+| `Get-NetTCPConnection -LocalPort 80` | Filtro TCP com PowerShell |
+| `curl http://localhost` | Testar resposta do servidor |
 
 ## Documentacao completa
 [Clique aqui para o PDF V1](./Documentação%20técnica%20de%20Network%20Troubleshooting.pdf) |
